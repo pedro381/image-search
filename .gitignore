@@ -464,3 +464,4 @@ $RECYCLE.BIN/
 .env
 /src/UAV.Seller.Web/Properties/PublishProfiles/backoffice-blazor-prod.pubxml.user
 /src/UAV.Seller.Web/Properties/PublishProfiles/backoffice-blazor-release.pubxml.user
+/imagens_temp/model/clip-ViT-B-32-vision.onnx
